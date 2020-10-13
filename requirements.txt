@@ -2,3 +2,4 @@ pandas==1.1.2
 plotly==4.10.0
 folium
 xlrd
+geojson
